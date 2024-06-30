@@ -8,7 +8,7 @@
 * **Telegram**: [@hophey89](https://t.me/hophey89)
 * **Discord**: [@hophey](https://discordapp.com/users/493185557254635531)
 
-## **About me**
+## **About me** 
 I'm 34 y.o., now I have part-time job in Yandex Crowd as a member of Data Markup Group.<br>
 I have experience in implementing and supporting ERP-systems and document management systems (including b2b segment), working in a team with project managers, developers, business-analysts, QA and performing a pool of different tasks - from writing requirements to the system, to direct customizations in it and user support.<br> 
 I have business correspondence and communication skills - both with internal business users and first-line support colleagues, and external customers.<br>
