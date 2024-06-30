@@ -37,7 +37,7 @@ Solution, which reverses the string passed into it like below one:
 Institute of Business Communications<br>
 Advertising Specialist<br>
 
-- **Тюменский государственный нефтегазовый университет**
+- **Tyumen State Oil and Gas University**
 2008<br>
 Institute of Oil and Gas<br>
 Advertising Specialist, 1 year<br>
